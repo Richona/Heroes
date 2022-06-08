@@ -2,5 +2,5 @@
 
 # integrantes
 -Juan
--Aylin
+-Aylin: Edad:31 / Lugar de residencia: Cutral-Có
 -Richard
